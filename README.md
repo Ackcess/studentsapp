@@ -1,2 +1,2 @@
-# studentsapp
+# Studentsapp
 Student-class management system
